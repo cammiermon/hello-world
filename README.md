@@ -1,4 +1,4 @@
 # hello-world
-Introduction to GitHub
+Intro to GitHub
 
 This is the README of Camille. 12.01.2021
